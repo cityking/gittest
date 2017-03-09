@@ -1,4 +1,4 @@
 def sayHello()
 	print("hello")
-
-sayHello()
+if __name__ = '__main__':
+    sayHello()
